@@ -1,0 +1,112 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #11999E;
+
+
+}
+
+h2 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+.top-container {
+    background-color: #B4E4FF;
+    padding-top: 100px;
+    position: relative;
+}
+
+.cloud-bottom {
+    position: absolute;
+    left: 250px;
+}
+
+.cloud-top {
+    position: absolute;
+    top: 70px;
+    right: 250px;
+
+
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn {
+    background-color: #11999E;
+    color: white;
+    text-decoration: none;
+    border: 2px solid grey;
+    padding: 8px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 50PX auto;
+
+
+
+}
+
+.bottom-container {
+    background-color: #B4E4FF;
+    height: 25vh;
+
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #11999E;
+    padding: 40px;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+
+
+
+
+}
+.middle-container{
+    margin-top: 80px;
+}
+hr{
+    width: 3%;
+    border-style: dotted;
+    border-top: none;
+    border-width: 6px;
+    border-color: rgb(209, 202, 202);
+    margin: 80PX auto;
+}
+a:hover{
+    color: aliceblue;
+}
